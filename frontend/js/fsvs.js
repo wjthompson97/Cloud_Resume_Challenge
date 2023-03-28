@@ -1,4 +1,4 @@
-const url = 'https://s6stno05x0.execute-api.us-east-1.amazonaws.com/Test/VisitorCounter/visit'; //upload as placeholder
+const url = 'API_Endpoint'; //uploaded as placeholder
       const data = { test: 'event' };
       const options = {
         method: 'POST',
